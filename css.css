@@ -196,10 +196,3 @@ body {
 .container .table .paragrafo5 .second .a .one {
     color: hsl(​30, 10%, 34%);
 }
-
-@media only screen and (max-width: 375px) {
-    body {
-        background-color:hsl(30, 54%, 90%);
-        width: 50%;
-    }
-}
